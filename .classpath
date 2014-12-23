@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="MICROUI-1.4.1"/>
+	<classpathentry kind="var" path="EDC-1.2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
